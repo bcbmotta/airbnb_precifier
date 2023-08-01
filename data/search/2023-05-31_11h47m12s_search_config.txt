@@ -1,0 +1,17 @@
+query: Toronto - ON
+adults: 2
+cdnCacheSafe: false
+channel: EXPLORE
+children: 1
+flexibleTripLengths: one_week
+infants: 0
+itemsPerGrid: 40
+pets: 0
+priceFilterInputType: 0
+refinementPaths: /homes
+tabId: home_tab
+version: 1.8.3
+checkin: 2023-07-01
+checkout: 2023-07-15
+priceFilterNumNights: 14
+datePickerType: calendar
